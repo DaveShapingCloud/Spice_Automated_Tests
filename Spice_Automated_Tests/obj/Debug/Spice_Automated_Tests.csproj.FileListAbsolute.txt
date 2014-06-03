@@ -1,0 +1,15 @@
+\\psf\Home\Documents\Projects\Spice_Automated_Tests\Spice_Automated_Tests\bin\Debug\Spice_Automated_Tests.dll
+\\psf\Home\Documents\Projects\Spice_Automated_Tests\Spice_Automated_Tests\bin\Debug\Spice_Automated_Tests.pdb
+\\psf\Home\Documents\Projects\Spice_Automated_Tests\Spice_Automated_Tests\bin\Debug\nunit.framework.dll
+\\psf\Home\Documents\Projects\Spice_Automated_Tests\Spice_Automated_Tests\bin\Debug\WebDriver.dll
+\\psf\Home\Documents\Projects\Spice_Automated_Tests\Spice_Automated_Tests\bin\Debug\WebDriver.Support.dll
+\\psf\Home\Documents\Projects\Spice_Automated_Tests\Spice_Automated_Tests\bin\Debug\nunit.framework.xml
+\\psf\Home\Documents\Projects\Spice_Automated_Tests\Spice_Automated_Tests\bin\Debug\WebDriver.xml
+\\psf\Home\Documents\Projects\Spice_Automated_Tests\Spice_Automated_Tests\bin\Debug\WebDriver.Support.xml
+\\psf\Home\Documents\Projects\Spice_Automated_Tests\Spice_Automated_Tests\obj\Debug\Spice_Automated_Tests.dll
+\\psf\Home\Documents\Projects\Spice_Automated_Tests\Spice_Automated_Tests\obj\Debug\Spice_Automated_Tests.pdb
+\\psf\Home\Documents\Projects\Spice_Automated_Tests\Spice_Automated_Tests\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+\\psf\Home\Documents\Projects\Spice_Automated_Tests\Spice_Automated_Tests\bin\Debug\ThoughtWorks.Selenium.Core.dll
+\\psf\Home\Documents\Projects\Spice_Automated_Tests\Spice_Automated_Tests\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+\\psf\Home\Documents\Projects\Spice_Automated_Tests\Spice_Automated_Tests\bin\Debug\ThoughtWorks.Selenium.Core.xml
+\\psf\Home\Documents\Projects\Spice_Automated_Tests\Spice_Automated_Tests\obj\Debug\Spice_Automated_Tests.csprojResolveAssemblyReference.cache
